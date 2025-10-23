@@ -9,17 +9,17 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Europe/Amsterdam
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Orhan Maden # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Azure Solution Architect # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Technical blog on cloud architecture, DevOps, and software engineering written by an Azure Solution Architect.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -28,8 +28,8 @@ url: ""
 github:
   username: orhanmaden # change to your GitHub username
 
-twitter:
-  username: orhanmaden # change to your Twitter username
+# twitter:
+#   username: orhanmaden # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   email: contact@dvanz.nl # change to your email address
   links:
     - https://github.com/orhanmaden # change to your GitHub homepage
-    - https://twitter.com/orhanmaden # change to your Twitter homepage
+    # - https://twitter.com/orhanmaden # change to your Twitter homepage
     # The first element serves as the copyright owner's link
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
