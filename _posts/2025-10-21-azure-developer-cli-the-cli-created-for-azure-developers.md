@@ -3,7 +3,7 @@ title: "Azure Developer CLI: The CLI created for Azure Developers"
 date: 2025-10-21 09:00:00 +0200
 categories: [Azure, Azure Developer CLI]
 tags: [azure, azure developer cli, azd]
-description: "The Azure Developer CLI (`azd`) simplifies infrastructure as code and application deployment using reusable templates so you can focus on writing code instead of setting things up in Azure."
+description: "The Azure Developer CLI (azd) simplifies infrastructure as code and application deployment using reusable templates so you can focus on writing code instead of setting things up in Azure."
 media_subpath: /assets/img/2025-10-21-azure-developer-cli-the-cli-created-for-azure-developers
 ---
 # Azure Developer CLI: The CLI created for Azure Developers
