@@ -522,23 +522,23 @@ You’ll also see `azd` appear as part of the Azure Verified Modules catalog. Se
 
 - Microsoft Documentation
 
-	- [Azure Developer CLI Overview](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/)
-	- [Azure Developer CLI Schema Reference (`azure.yaml`)](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/azd-schema)
+  - [Azure Developer CLI Overview](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/)
+  - [Azure Developer CLI Schema Reference (`azure.yaml`)](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/azd-schema)
 
 - GitHub Repositories
 
-	- [Azure Developer CLI(https://github.com/Azure/azure-dev)
-	- [Azure-Samples/azd-starter-bicep](https://github.com/Azure-Samples/azd-starter-bicep)
+  - [Azure Developer CLI](https://github.com/Azure/azure-dev)
+  - [Azure-Samples/azd-starter-bicep](https://github.com/Azure-Samples/azd-starter-bicep)
 
 - azd Template Galleries
 
-	- Awesome AZD
-		- Website: [https://azure.github.io/awesome-azd](https://azure.github.io/awesome-azd)
-		- JSON Feed: [https://azure.github.io/awesome-azd/templates.json](https://azure.github.io/awesome-azd/templates.json)
+  - Awesome AZD
+    - Website: [https://azure.github.io/awesome-azd](https://azure.github.io/awesome-azd)
+    - JSON Feed: [https://azure.github.io/awesome-azd/templates.json](https://azure.github.io/awesome-azd/templates.json)
 
-	- AI App Templates
+  - AI App Templates
 
-		- Website: [https://azure.github.io/ai-app-templates/](https://azure.github.io/ai-app-templates/)
-		- JSON Feed: [https://azure.github.io/ai-app-templates/templates.json](https://azure.github.io/ai-app-templates/templates.json)
+    - Website: [https://azure.github.io/ai-app-templates/](https://azure.github.io/ai-app-templates/)
+    - JSON Feed: [https://azure.github.io/ai-app-templates/templates.json](https://azure.github.io/ai-app-templates/templates.json)
 
 
