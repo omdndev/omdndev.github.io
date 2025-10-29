@@ -34,7 +34,7 @@ If we want to understand how `azd` works, we need to know what templates are and
 
 At a high level, a template consists of the following parts:
 
-* `.azure` folder: Contains the configuration for environments like dev, test, and prod. This is used for local deployments. This folder is not checked into Git.
+* `.azure` folder: Contains the configuration for environments like dev, test, and prod. This is used for local deployments. This folder is ignored by default via the `.ignore` file and therefore not checked into Git.
 * `.github` or `.azdo` folder: Contains the GitHub workflow or the Azure DevOps pipeline. `azd` supports both. Other CI/CD platforms can also be configured according to the documentation.
 * `infra` folder: The default IaC language is Bicep. Terraform is also supported, but requires a bit more configuration due to the state file. Other languages can be configured as well.
 * `src` folder: Contains the application code. If you have one application, this folder can serve as the root. If you have multiple applications (for example, a frontend and a backend), you can use subfolders.
