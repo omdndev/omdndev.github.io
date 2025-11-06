@@ -6,6 +6,7 @@ tags: [azure, azure developer cli, azd, presentation]
 description: "The Azure Developer CLI (azd) simplifies infrastructure as code and application deployment using reusable templates so you can focus on writing code instead of setting things up in Azure."
 media_subpath: /assets/img/2025-10-21-azure-developer-cli-the-cli-created-for-azure-developers
 render_with_liquid: false
+image: 2025-10-21-azure-developer-cli-the-cli-created-for-azure-developers.jpg
 ---
 ## What is the Azure Developer CLI?
 
