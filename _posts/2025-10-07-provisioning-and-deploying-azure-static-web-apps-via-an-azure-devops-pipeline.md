@@ -6,6 +6,7 @@ tags: [azure, static web apps, swa]
 description: "Provisioning and deploying Azure Static Web Apps can now be fully automated in Azure DevOps using the Static Web Apps CLI, eliminating manual steps in the Azure Portal and streamlining the entire workflow."
 media_subpath: /assets/img/2025-10-07-provisioning-and-deploying-azure-static-web-apps-via-an-azure-devops-pipeline
 render_with_liquid: false
+image: 2025-10-07-provisioning-and-deploying-azure-static-web-apps-via-an-azure-devops-pipeline.jpg
 ---
 ## Introduction
 
